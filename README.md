@@ -1,4 +1,4 @@
-![Screenshot 2025-02-03 004156](https://github.com/user-attachments/assets/8fc6fbe5-0d73-4a9a-9e52-4503e70670b1)# Starbucks Beverage Analysis ☕📊
+# Starbucks Beverage Analysis ☕📊
 
 ## Overview
 
